@@ -1,4 +1,4 @@
-# ComputerVisionJetsonNano
+# Step By Step JetsonNano
 Setelah menguji model di Colab dan memastikan semuanya berfungsi:
 
 1. Download model ONNX yang dihasilkan
