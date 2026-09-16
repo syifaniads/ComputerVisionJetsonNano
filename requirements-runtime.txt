@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+opencv-python>=4.9,<5
+# Install an ONNX Runtime build compatible with the target JetPack/L4T/Python/architecture.
+# A generic `onnxruntime` wheel is suitable for desktop validation but may not match Jetson Nano.
+onnxruntime>=1.17,<2
